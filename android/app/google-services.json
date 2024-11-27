@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055809100624",
+    "project_id": "connect-8bc28",
+    "storage_bucket": "connect-8bc28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055809100624:android:c1259bf9787321355e2a55",
+        "android_client_info": {
+          "package_name": "com.sreeramvarma.usersconnectapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqBboMY8tmLnQGHKLUJCmtmGbTloEZRZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
